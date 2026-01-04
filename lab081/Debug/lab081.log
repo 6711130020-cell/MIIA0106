@@ -1,0 +1,3 @@
+﻿  lab081.cpp
+D:\MIIA0106\lab08\lab081\lab081.cpp(22,15): error C2039: 'nickname': is not a member of 'Student'
+D:\MIIA0106\lab08\lab081\lab081.cpp(5): message : see declaration of 'Student'
